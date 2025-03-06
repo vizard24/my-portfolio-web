@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: >-
       Hi! I’m Yaovi, a developer, digital artist, consultant and a bunch of
       other impressive titles and buzz words.
