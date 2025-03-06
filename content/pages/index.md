@@ -52,12 +52,6 @@ sections:
       passionate by creating secure codes, webesites and applications. Because I
       tend to do bunch of projects, I have gain meaningful experience in both
       front-end and backend coding.
-    media:
-      type: ImageBlock
-      url: /images/gallery-3.jpg
-      altText: altText of the image
-      caption: Caption of the image
-      elementId: ''
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
