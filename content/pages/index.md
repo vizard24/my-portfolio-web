@@ -47,6 +47,11 @@ sections:
         justifyContent: flex-start
     type: HeroSection
     actions: []
+    text: >
+      I have studied in Computer Science and Business Management, and I am
+      passionate by creating secure codes, webesites and applications. Because I
+      tend to do bunch of projects, I have gain meaningful experience in both
+      front-end and backend coding.
   - colors: colors-f
     type: FeaturedProjectsSection
     elementId: ''
