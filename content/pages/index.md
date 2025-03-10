@@ -194,7 +194,7 @@ sections:
 backgroundImage:
   type: BackgroundImage
   url: /images/042fe8ed-34a1-4890-91ec-224c232d0e3b.jpeg
-  backgroundSize: contain
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
