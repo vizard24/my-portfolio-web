@@ -193,9 +193,9 @@ sections:
         textAlign: left
 backgroundImage:
   type: BackgroundImage
-  url: /images/042fe8ed-34a1-4890-91ec-224c232d0e3b.jpeg
+  url: /images/bg2.jpg
   backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
-  opacity: 36
+  opacity: 100
 ---
