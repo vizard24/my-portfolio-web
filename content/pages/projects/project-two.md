@@ -1,6 +1,6 @@
 ---
 type: ProjectLayout
-title: AXED
+title: AXED Web Application
 colors: colors-a
 date: '2021-12-20'
 client: Axed Inc
