@@ -196,6 +196,6 @@ backgroundImage:
   url: /images/042fe8ed-34a1-4890-91ec-224c232d0e3b.jpeg
   backgroundSize: cover
   backgroundPosition: center
-  backgroundRepeat: repeat-y
+  backgroundRepeat: no-repeat
   opacity: 100
 ---
